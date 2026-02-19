@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Die MF Die",
+  "base_artist": "Dope",
+  "createdAt": "2026-02-19T10:39:29.061478Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Die MF Die",
+      "artist": "Dope",
+      "has_synced": true,
+      "path": "select/01_Die_MF_Die_Dope.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Die MF Die",
+      "artist": "Richard Cheese",
+      "has_synced": false,
+      "path": "select/02_Die_MF_Die_Richard_Cheese.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Die MF Die (Album Version)",
+      "artist": "Dope",
+      "has_synced": true,
+      "path": "select/03_Die_MF_Die_(Album_Version)_Dope.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Die MF Die (Originally by Dope)",
+      "artist": "Richard Cheese & Lounge Against The Machine",
+      "has_synced": false,
+      "path": "select/04_Die_MF_Die_(Originally_by_Dope)_Richard_Cheese_&_Lounge_Against_The_Machine.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Die MF Die",
+      "artist": "Richard Cheese & Lounge Against The Machine",
+      "has_synced": false,
+      "path": "select/05_Die_MF_Die_Richard_Cheese_&_Lounge_Against_The_Machine.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Die MF Die (Originally by Dope)",
+      "artist": "Richard Cheese",
+      "has_synced": false,
+      "path": "select/06_Die_MF_Die_(Originally_by_Dope)_Richard_Cheese.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Die MF Die (Originally by Dope)",
+      "artist": "Cheese, Richard & Lounge Against The Machine",
+      "has_synced": false,
+      "path": "select/07_Die_MF_Die_(Originally_by_Dope)_Cheese,_Richard_&_Lounge_Against_The_Machine.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Die MF Die",
+      "artist": "Cheese, Richard & Lounge Against The Machine",
+      "has_synced": false,
+      "path": "select/08_Die_MF_Die_Cheese,_Richard_&_Lounge_Against_The_Machine.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Die MF Die (Clean)",
+      "artist": "Dope",
+      "has_synced": true,
+      "path": "select/09_Die_MF_Die_(Clean)_Dope.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "06 Die Mf Die",
+      "artist": "Dope",
+      "has_synced": true,
+      "path": "select/10_06_Die_Mf_Die_Dope.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Die MF Die",
+      "artist": "Dope",
+      "has_synced": true,
+      "path": "select/11_Die_MF_Die_Dope.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Die MF Die",
+      "artist": "Dope",
+      "has_synced": true,
+      "path": "select/12_Die_MF_Die_Dope.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Die MF Die [Explicit]",
+      "artist": "Dope",
+      "has_synced": true,
+      "path": "select/13_Die_MF_Die_[Explicit]_Dope.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Die MF Die",
+      "artist": "Dope",
+      "has_synced": false,
+      "path": "select/pl_01_Die_MF_Die_Dope.txt"
+    }
+  ]
+}
