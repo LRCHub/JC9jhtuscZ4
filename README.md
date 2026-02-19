@@ -1,0 +1,57 @@
+# Dope – Die MF Die
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:46.40] I don't need your forgiveness
+[00:48.58] I don't need your hate
+[00:50.46] I don't need your acceptance
+[00:52.58] So what should I do?
+[00:54.44] I don't need your resistance
+[00:56.28] I don't need your prayers
+[00:58.12] I don't need no religion
+[00:59.85] I don't need a thing from you
+[01:14.35] 
+[01:01.26] I don't do what I've been told
+[01:04.71] You're so lame why don't you just go
+[01:22.71] 
+[01:09.05] Die motherfucker, die motherfucker, die
+[01:13.06] Die motherfucker, die motherfucker, die
+[01:16.93] Die motherfucker, die motherfucker, die
+[01:20.78] Die motherfucker, die motherfucker, die
+[01:40.28] 
+[01:24.64] I don't need your prison
+[01:26.29] I don't need your pain
+[01:28.12] I don't need your decision
+[01:30.54] So what should I do?
+[01:32.08] I don't need your approval
+[01:33.95] I don't need your hope
+[01:35.73] I don't need your lectures
+[01:37.73] I don't need a thing from you
+[01:52.23] 
+[01:39.98] I'll be sorry when I'm old
+[01:43.65] You're so full of shit man just go
+[02:00.65] 
+[01:47.45] Die motherfucker, die motherfucker, die
+[01:51.37] Die motherfucker, die motherfucker, die
+[01:55.12] Die motherfucker, die motherfucker, die
+[01:58.91] Die motherfucker, die motherfucker, die
+[02:18.41] 
+[02:19.81] I don't need your forgiveness
+[02:21.64] I don't need your hate
+[02:23.47] I don't need your acceptance
+[02:25.92] So what should I do?
+[02:35.92] 
+[02:27.42] I'll be sorry so you've said
+[02:31.23] I'm not sorry, bang, you're dead
+[02:47.23] 
+[02:35.31] Die motherfucker, die motherfucker, die
+[02:39.17] Die motherfucker, die motherfucker, die
+[02:42.92] Die motherfucker, die motherfucker, die
+[02:46.73] Die motherfucker, die motherfucker, die
+[03:06.23] 
+[02:51.63] Die
+[02:53.78] Die
+[02:55.55] Die
+[03:01.39] Die
+```
